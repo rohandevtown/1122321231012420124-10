@@ -1,0 +1,52 @@
+Book My Show Clone:
+    >> React
+    >> Tailwind
+    >> React-slick (Carousel)
+    >> React-Icons
+    >> React-Context-API (State Managment - React)
+    >> Headless UI
+
+
+
+Pages:                                          HOC's (Layouts)
+    >> Home.Page.jsx                        Default.HOC.jsx
+    >> Movie.Page.jsx                       Movie.HOC.jsx
+    >> Play.Page.jsx                        Default.HOC.jsx
+
+
+
+Components:
+    >> Cast                     Cast.Component.jsx
+    >> Entertainment            EntertainmentCard.Component.jsx
+    >> HeroCarousel             HeroCarousel.Component.jsx
+                                Arrows.Component.jsx
+    >> MovieHero                MovieHero.Component.jsx
+                                MovieInfo.Component.jsx
+    >> Navbar                   MovieNavbar.Component.jsx
+                                Navbar.Component.jsx
+    >> PaymentModel             PaymentModel.Component.jsx
+    >> PlayFilters              PlayFilters.Component.jsx
+    >> Poster                   Poster.Component.jsx
+    >> PosterSlider             PosterSlider.Component.jsx                  
+
+
+
+
+
+Tailwind: 
+    >> https://tailwindcss.com/docs/guides/create-react-app
+
+React-Slick: 
+    >> https://react-slick.neostack.com/docs/get-started
+
+Axios:
+    >> https://www.npmjs.com/package/axios
+    >> https://axios-http.com/
+
+
+Headless UI:
+    >> https://headlessui.com/react/dialog
+
+
+React-Icons:
+    >> https://react-icons.github.io/react-icons/
