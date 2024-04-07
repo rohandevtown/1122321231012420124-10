@@ -50,3 +50,6 @@ Headless UI:
 
 React-Icons:
     >> https://react-icons.github.io/react-icons/
+
+MOVIE DB API KEY:
+    b0380404025ff71ff7222783b12710df    
